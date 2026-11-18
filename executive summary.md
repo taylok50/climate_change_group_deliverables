@@ -59,6 +59,8 @@ Financial Accountability Office of Ontario (FAO). 2018. Cap and Trade: A Financi
 
 Government of Alberta. 2026. “Technology Innovation and Emissions Reduction Regulation.” Alberta.ca. https://www.alberta.ca/technology-innovation-and-emissions-reduction-regulation.  
 
+Government of British Columbia. 2025. “Past Carbon Tax Rates.” Province of British Columbia, March 13. https://www2.gov.bc.ca/gov/content/taxes/sales-taxes/motor-fuel-carbon-tax/publications/carbon-tax-rates-by-fuel-type/past-carbon-tax-rates. 
+
 Hanoteau, Julien, and Talbot, David. 2019. “Impacts of the Québec Carbon Emissions Trading Scheme on Plant-Level Performance and Employment.” Carbon Management 10 (3): 287–98. https://doi.org/10.1080/17583004.2019.1595154. 
 
 International Carbon Action Partnership (ICAP). 2026. “Canada – Ontario Emissions Performance Standards Program.” https://icapcarbonaction.com/en/ets/canada-ontario-emissions-performance-standards-program. 
