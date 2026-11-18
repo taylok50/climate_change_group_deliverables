@@ -1,5 +1,9 @@
 # Industrial Carbon Pricing in Canada: An Analysis of System Efficacy - Executive Summary
 
+**Group 5:** Jaden Chiang, Luca Madriz-Zikic, Anna Mirazizyan, Samara Peet & Kristen Taylor
+
+November 17, 2026
+
 ## Controlling Carbon: What is Carbon Pricing and What Kind of Systems Does Canada Use?
 
 Is Canada’s carbon pricing actually cutting emissions? Carbon pricing puts a cost on greenhouse gas (GHG) emissions to combat climate change. Canada’s industrial-targeted systems come in two main types. Cap-and-trade systems limit emissions from certain sources, while facilities buy and sell permits to cover their emissions (Dubash et al. 2022). Intensity-based systems, including output-based pricing systems (OBPS), set limits per unit production for individual facilities; if limits are surpassed, they must pay or use emissions credits (Canadian Climate Institute 2024). Canadian emissions data were analyzed to determine pricing systems’ effectiveness. Figure 1 shows regional GHG emissions since 2005.
