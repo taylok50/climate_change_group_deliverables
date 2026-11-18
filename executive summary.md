@@ -4,7 +4,7 @@
 
 Is Canada’s carbon pricing actually cutting emissions? Carbon pricing puts a cost on greenhouse gas (GHG) emissions to combat climate change. Canada’s industrial-targeted systems come in two main types. Cap-and-trade systems limit emissions from certain sources, while facilities buy and sell permits to cover their emissions (Dubash et al. 2022). Intensity-based systems, including output-based pricing systems (OBPS), set limits per unit production for individual facilities; if limits are surpassed, they must pay or use emissions credits (Canadian Climate Institute 2024). Canadian emissions data were analyzed to determine pricing systems’ effectiveness. Figure 1 shows regional GHG emissions since 2005.
 
-Image
+![Figure](Climate_Change_Executive_Summary_Figure.png)
 
 *Figure 1. Total annual GHG emissions of the four highest-emitting Canadian provinces (Alberta, British Columbia, Ontario, and Quebec) and those under the federal default system (federal OBPS). Emissions are expressed as the percentage of each region’s 2005 level. A black dot on each line represents the year in which a carbon pricing system was first implemented in the region. Figure made in Microsoft Excel using data from ECCC 2026b.*
 
